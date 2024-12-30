@@ -73,9 +73,3 @@ This project involves creating a Sales Data Mart by extracting and transforming 
 - Use of dimension tables to create a normalized schema for the Data Mart.
 - Incorporation of data quality checks and transformations to ensure consistency.
 
-## Future Enhancements
-- Add more dimensions and facts to expand the Data Mart's analytical capabilities.
-- Implement advanced incremental loading mechanisms to improve performance.
-- Automate the execution of SSIS packages using SQL Server Agent.
-
-
